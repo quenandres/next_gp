@@ -30,7 +30,13 @@ Ofrece
 - API routes
 - Built-in CSS Support
 - Middleware
-### SEO
+### SEO (Search Engine Optimization)
+Posiciona nuestra aplicación en los motores de busqueda
+<img src="./docs/assets/4-seo.jpg" width="550" height="350"/>
+
+Es un software automatico que ejecuta todos los links de una pagina.
+Un buen SEO asegura mejores posiciones en busquedas.
+
 
 ### Estructura Opinada
 ### Problemas
