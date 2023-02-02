@@ -1,4 +1,18 @@
-# _Next_
+<style>
+.heading1 {
+    color: white;
+    font-weight:700;
+    font-size: 35px;
+}
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 20px;
+}
+</style>
+<h1 id="identifier" class="heading1">
+    Next
+</h1>
 
 ### Ventajas
 #### Popularidad
@@ -37,8 +51,19 @@ Posiciona nuestra aplicación en los motores de busqueda
 Es un software automatico que ejecuta todos los links de una pagina.
 Un buen SEO asegura mejores posiciones en busquedas.
 
+### Opinado
+_*Framework*_ Una forma de hacer las cosas.
 
-### Estructura Opinada
+_*React*_ Extremadamente flexible, esto mismo es una ventaja como una desventaja. Para una problema se encuentran 1000 solución.
+
+_*Next.js*_ Presenta sus propias soluciones. Se hacen las cosas a su manera.
+
+Estructura Opinada
+
+### Zero config
+Un par de lineas de comando y esta listo para utilizar.
+
 ### Problemas
+
 ### ¿Cuando es mejor usarlo?
 
