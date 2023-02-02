@@ -1,19 +1,4 @@
-<style>
-.heading1 {
-    color: white;
-    font-weight:700;
-    font-size: 35px;
-}
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 20px;
-}
-</style>
-<h1 id="identifier" class="heading1">
-    Next
-</h1>
-
+# Next
 ### Ventajas
 #### Popularidad
 Tiene mas de 100k de estrellas en Github.
@@ -63,7 +48,11 @@ Estructura Opinada
 ### Zero config
 Un par de lineas de comando y esta listo para utilizar.
 
-### Problemas
-
 ### ¿Cuando es mejor usarlo?
+* Cuando el enfoque es el SEO
+* Cuando el proyecto es un prototipo rapido.
+* Cuando se quiere hacer Client Side Rendering.
+* Landing page.
 
+### Problemas
+Lo mejor es aprender las bases antes de llegar a next.
